@@ -1,4 +1,4 @@
-# Readme-file for weather morphing tool
+# README
 
 This is the read me file for the usage of weather morphing tool. This tool can be used to statistically down-scale the future daily and monthly climate change data from the Global Climate Models (GCMs) and Regional Climate Models (RCMs) simulation results. The supported variables at the time are:
 
